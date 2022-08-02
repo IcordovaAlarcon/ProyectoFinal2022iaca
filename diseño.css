@@ -1,0 +1,26 @@
+*{
+
+}
+.cont{
+    width: 380px;
+    color: aliceblue;
+    background-color: rgb(221, 146, 8);
+    border-radius: 2%;
+}
+.head{ 
+    padding: 0%;
+    width: auto;
+    height: 70px;
+    background-color: orange;
+}
+.head2{
+    padding: 0%;
+    width: auto;
+    height: 50px;
+    background-color: rgb(236, 218, 183);
+}
+.ihead{
+    padding: 15px;
+    width: 200px;
+    height: 100px;
+}
