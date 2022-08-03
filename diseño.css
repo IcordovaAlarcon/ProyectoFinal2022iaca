@@ -1,6 +1,3 @@
-*{
-
-}
 .cont{
     width: 380px;
     color: aliceblue;
@@ -21,6 +18,54 @@
 }
 .ihead{
     padding: 15px;
-    width: 200px;
+    width: 250px;
     height: 100px;
 }
+body{
+    margin: 0px;
+    padding: 0px;
+  }
+  div.cajonSuperior{
+    width: 90%;
+    height: 800px;
+  }
+  img.Ilogo{
+    margin: 15px;
+    padding: 15px;
+    position: absolute;
+    float: inline-start;
+    width: 250px; 
+    height:250px;
+  }
+  div.contenedor{
+    padding-left: 350px;
+    padding-top: 0px;
+    padding-inline-end: 10px;
+  }
+  div.mision{
+    padding: 10px;
+    float: left; 
+    width: 45%; 
+    text-align: justify; 
+  }
+  div.vision{
+    padding: 10px; 
+    float: right; 
+    width: 45%; 
+    text-align: justify;
+  }
+  div.valores{
+    padding-top: 80px;
+    padding-left: 350px;
+    text-align: justify; 
+  }
+  div.formulario{
+    position: absolute;
+    padding-top: 300px;
+    padding-left: 45px;
+    width: 250px; 
+    height:250px;
+  }
+  div.img{
+    position: absolute;
+  }
