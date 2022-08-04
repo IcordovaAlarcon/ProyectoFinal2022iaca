@@ -21,10 +21,6 @@
     width: 250px;
     height: 100px;
 }
-body{
-    margin: 0px;
-    padding: 0px;
-  }
   div.cajonSuperior{
     width: 90%;
     height: 800px;
@@ -69,3 +65,4 @@ body{
   div.img{
     position: absolute;
   }
+

@@ -59,16 +59,30 @@
       </button>
     </div>
 
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
      <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
-        <table width="100%" border="1" align="center">
-        <td align="center" width="30%"><h2><a href="#">Productos</a></h2></td>
+        <table width="100%" align="center">
+        <td align="center" width="30%"><h2><a href="Pys.php">Productos</a></h2></td>
         <td align="center"><h2><a href="#">Tiendas</a></h2></td>
         <td align="center" width="30%"><h3><a href="#">Contactanos</a></h3></td>
         </table>
-  
-    </nav>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+     </nav>
+      
+     <table align="center" width="100%">
+       <tr>
+        <tr colspan= "2">
+          <img src="imagenes/comida1.jpg">
+        </tr>
+        <td>
+        <img src="imagenes/comida2.jpeg">
+        </td>
+        <td colspan= "2">
+          <img src="imagenes/comida3.png">
+        </td>
+       </tr>
+     </table>
+     <footer class="pat">PVX: XXX-XXX   Carnet:2018-40120    Nombre:Irving Alexander Córdova Alarcón </footer>
 </body>
 </html>
