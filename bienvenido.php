@@ -10,7 +10,7 @@
 </head>
 <body>
     <header class="head"><img class="ihead" src="imagenes/Logo.png"></header>
-    <header class="head2"></header>
+    <header class="head2" align="right"><a href="index.php">Cerrar Sesión</a></header>
 
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-indicators">

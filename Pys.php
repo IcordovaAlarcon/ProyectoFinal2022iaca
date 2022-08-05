@@ -9,17 +9,24 @@
     <title>Productos</title>
 </head>
 <body>
-    <center>
-    <table width="97%">
-    </center>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<table width="100%">
+<td align="center" width="30%"><h2><a href="bienvenido.php">Inicio</a></h2></td>
+<td align="center"><h2><a href="tiendas.php">Tiendas</a></h2></td>
+<td align="center" width="30%"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
+</table>
+</nav>
+
+    <center><table class="Tab" width="90%"></center>
         <tr>
     <td>
     <div class="contenedor">
         <figure>
-            <img src="imagenes/1.jpg">         
+            <img src="Productos/1.jpeg">         
             <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
+                <h3>Menú 1</h3>
+                <p>Consta de: 8 piezas de poyo con agua y papas</p>
             </div>
         </figure>
     </div>
@@ -27,10 +34,10 @@
     <td>
     <div class="contenedor">
         <figure>
-            <img src="imagenes/2.jpg">         
+            <img src="Productos/2.jpeg">         
             <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
+                <h3>Menú 2</h3>
+                <p>Contiene un paquete de piezas de poyo junto con un acompañamiento de poyo y una amburgesa</p>
             </div>
         </figure>
     </div>
@@ -38,10 +45,10 @@
     <td>
     <div class="contenedor">
         <figure>
-            <img src="imagenes/1.jpg">         
+            <img src="Productos/3.jpg">         
             <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
+                <h3>Menú 3</h3>
+                <p>El preferido para los enamorados, con su piezas de poyo papas y agua</p>
             </div>
         </figure>
     </div>
@@ -49,56 +56,10 @@
     <td>
     <div class="contenedor">
         <figure>
-            <img src="imagenes/1.jpg">         
+            <img src="Productos/4.jpg">         
             <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
-            </div>
-        </figure>
-    </div>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <div class="contenedor">
-        <figure>
-            <img src="imagenes/1.jpg">         
-            <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
-            </div>
-        </figure>
-    </div>
-    </td>
-    <td>
-    <div class="contenedor">
-        <figure>
-            <img src="imagenes/1.jpg">         
-            <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
-            </div>
-        </figure>
-    </div>
-    </td>
-    <td>
-    <div class="contenedor">
-        <figure>
-            <img src="imagenes/1.jpg">         
-            <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
-            </div>
-        </figure>
-    </div>
-    </td>
-    <td>
-    <div class="contenedor">
-        <figure>
-            <img src="imagenes/1.jpg">         
-            <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
+                <h3>Menú 4</h3>
+                <p>Para los amantes del limón viene esta combo de sabrosos pollos en limon</p>
             </div>
         </figure>
     </div>
@@ -108,10 +69,10 @@
     <td>
     <div class="contenedor">
         <figure>
-            <img src="imagenes/1.jpg">         
+            <img src="Productos/5.jpeg">         
             <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
+                <h3>Menú 5</h3>
+                <p>Es una caja compuesta de dos niveles llenos de sabor donde vienen acopañamientos y el pollo en la parte de abajo</p>
             </div>
         </figure>
     </div>
@@ -119,10 +80,10 @@
     <td>
     <div class="contenedor">
         <figure>
-            <img src="imagenes/1.jpg">         
+            <img src="Productos/6.jpeg">         
             <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
+                <h3>Menú 6</h3>
+                <p>Un combro tradicional de piezas de pollo con papas, refresco y flan de</p>
             </div>
         </figure>
     </div>
@@ -130,10 +91,10 @@
     <td>
     <div class="contenedor">
         <figure>
-            <img src="imagenes/1.jpg">         
+            <img src="Productos/7.jpeg">         
             <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
+                <h3>Menú 7</h3>
+                <p>Un combo familiar que viene con su loncherita campero y sus 6 piezas y ensaladas</p>
             </div>
         </figure>
     </div>
@@ -141,10 +102,56 @@
     <td>
     <div class="contenedor">
         <figure>
-            <img src="imagenes/1.jpg">         
+            <img src="Productos/8.jpeg">         
             <div class="capa">
-                <h3>TECLADOS</h3>
-                <p>Ergonomicos, contra el agua etc.</p>
+                <h3>Menú 8</h3>
+                <p>Otro de nuestros combos con 6 piezas de sabor, con sus papas y ensaladas</p>
+            </div>
+        </figure>
+    </div>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <div class="contenedor">
+        <figure>
+            <img src="Productos/9.jpeg">         
+            <div class="capa">
+                <h3>Menú 9</h3>
+                <p>Uno de nuestros combos veraniegos contiene camaron y para acompañar, nuestras salsas</p>
+            </div>
+        </figure>
+    </div>
+    </td>
+    <td>
+    <div class="contenedor">
+        <figure>
+            <img src="Productos/10.jpeg">         
+            <div class="capa">
+                <h3>Menú 10</h3>
+                <p>Uno de nuestros cobos mas tradicionales, papas nuestro delicioso pollo y bebida</p>
+            </div>
+        </figure>
+    </div>
+    </td>
+    <td>
+    <div class="contenedor">
+        <figure>
+            <img src="Productos/11.jpeg">         
+            <div class="capa">
+                <h3>Menú 11</h3>
+                <p>Comparte con tus amigos con este combo de 6 piezas con sus ensaladas campero</p>
+            </div>
+        </figure>
+    </div>
+    </td>
+    <td>
+    <div class="contenedor">
+        <figure>
+            <img src="Productos/12.jpeg">         
+            <div class="capa">
+                <h3>Menú 12</h3>
+                <p>LLevale a tu mamá en su dia especial su combo de 12 piezas para que compartas con ella</p>
             </div>
         </figure>
     </div>
