@@ -62,6 +62,6 @@ will-change: transform;
     max-width: 220px;
     margin: auto;
 }
-.tab{
-    height: 80%;
+.col{
+    text-decoration: none;
 }

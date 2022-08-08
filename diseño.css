@@ -38,18 +38,6 @@
     padding-top: 0px;
     padding-inline-end: 10px;
   }
-  div.mision{
-    padding: 10px;
-    float: left; 
-    width: 45%; 
-    text-align: justify; 
-  }
-  div.vision{
-    padding: 10px; 
-    float: right; 
-    width: 45%; 
-    text-align: justify;
-  }
   div.valores{
     padding-top: 80px;
     padding-left: 350px;

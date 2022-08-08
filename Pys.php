@@ -10,15 +10,18 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-<table width="100%">
-<td align="center" width="30%"><h2><a href="bienvenido.php">Inicio</a></h2></td>
-<td align="center"><h2><a href="tiendas.php">Tiendas</a></h2></td>
-<td align="center" width="30%"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
-</table>
-</nav>
 
-    <center><table class="Tab" width="90%"></center>
+<table height="70px" width="100%">
+<style type="text/css"> 
+a { text-decoration: none; 
+    color: white;} 
+</style> 
+<td align="center" width="30%" bgcolor="orange" ><h2><a href="bienvenido.php">Inicio</a></h2></td>
+<td align="center" bgcolor="orange"><h2><a href="Pys.php">Productos</a></h2></td>
+<td align="center" width="30%" bgcolor="orange"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
+</table>
+
+    <center><table width="90%"></center>
         <tr>
     <td>
     <div class="contenedor">
