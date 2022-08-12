@@ -28,8 +28,10 @@ a { text-decoration: none;
         <figure>
             <img src="Productos/1.jpeg">         
             <div class="capa">
+                <a href="info/1.php">
                 <h3>Menú 1</h3>
                 <p>Consta de: 8 piezas de poyo con agua y papas</p>
+                </a>
             </div>
         </figure>
     </div>

@@ -65,8 +65,8 @@
 
         <table width="100%" align="center">
         <td align="center" width="30%"><h2><a href="Pys.php">Productos</a></h2></td>
-        <td align="center"><h2><a href="#">Tiendas</a></h2></td>
-        <td align="center" width="30%"><h3><a href="#">Contactanos</a></h3></td>
+        <td align="center"><h2><a href="tiendas.php">Tiendas</a></h2></td>
+        <td align="center" width="30%"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
         </table>
      </nav>
       
