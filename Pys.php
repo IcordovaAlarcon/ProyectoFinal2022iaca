@@ -17,26 +17,28 @@ a { text-decoration: none;
     color: white;} 
 </style> 
 <td align="center" width="30%" bgcolor="orange" ><h2><a href="bienvenido.php">Inicio</a></h2></td>
-<td align="center" bgcolor="orange"><h2><a href="Pys.php">Productos</a></h2></td>
-<td align="center" width="30%" bgcolor="orange"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
+<td align="center" bgcolor="blue"><h2><a href="Pys.php">Productos</a></h2></td>
+<td align="center" width="30%" bgcolor="red"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
 </table>
 
     <center><table width="90%"></center>
         <tr>
     <td>
+    <a href="info/1.php">
     <div class="contenedor">
         <figure>
-            <img src="Productos/1.jpeg">         
+            <img src="Productos/1.jpeg">  
+                   
             <div class="capa">
-                <a href="info/1.php">
                 <h3>Menú 1</h3>
                 <p>Consta de: 8 piezas de poyo con agua y papas</p>
-                </a>
             </div>
         </figure>
     </div>
+    </a>
     </td>
     <td>
+    <a href="info/2.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/2.jpeg">         
@@ -48,6 +50,7 @@ a { text-decoration: none;
     </div>
     </td>
     <td>
+    <a href="info/3.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/3.jpg">         
@@ -59,6 +62,7 @@ a { text-decoration: none;
     </div>
     </td>
     <td>
+    <a href="info/4.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/4.jpg">         
@@ -72,6 +76,7 @@ a { text-decoration: none;
     </tr>
     <tr>
     <td>
+    <a href="info/5.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/5.jpeg">         
@@ -83,6 +88,7 @@ a { text-decoration: none;
     </div>
     </td>
     <td>
+    <a href="info/6.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/6.jpeg">         
@@ -94,6 +100,7 @@ a { text-decoration: none;
     </div>
     </td>
     <td>
+    <a href="info/7.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/7.jpeg">         
@@ -105,6 +112,7 @@ a { text-decoration: none;
     </div>
     </td>
     <td>
+    <a href="info/8.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/8.jpeg">         
@@ -118,6 +126,7 @@ a { text-decoration: none;
     </tr>
     <tr>
     <td>
+    <a href="info/9.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/9.jpeg">         
@@ -129,6 +138,7 @@ a { text-decoration: none;
     </div>
     </td>
     <td>
+    <a href="info/10.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/10.jpeg">         
@@ -140,6 +150,7 @@ a { text-decoration: none;
     </div>
     </td>
     <td>
+    <a href="info/11.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/11.jpeg">         
@@ -151,6 +162,7 @@ a { text-decoration: none;
     </div>
     </td>
     <td>
+    <a href="info/12.php">
     <div class="contenedor">
         <figure>
             <img src="Productos/12.jpeg">         
