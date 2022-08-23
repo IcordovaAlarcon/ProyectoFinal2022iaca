@@ -67,17 +67,19 @@ a { text-decoration: none;
     color: white;} 
 </style> 
 <td align="center" width="30%" bgcolor="orange" ><h2><a href="bienvenido.php">Inicio</a></h2></td>
-<td align="center" bgcolor="secondary"><h2><a href="Pys.php">Productos</a></h2></td>
-<td align="center" width="30%" bgcolor="yellow"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
-
+<td align="center" bgcolor="green"><h2><a href="Pys.php">Productos</a></h2></td>
+<td align="center" width="30%" bgcolor="Beige"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
 </table>
      <table align="center" width="100%">
     <tr>
     <img src="imagenes/comida2.jpeg">
     </tr>
     <tr>
-      
+    <img src="imagenes/comida1.jpg">
     </tr>
+    <td>
+      <img src="imagenes/comida3.png">
+    </td>
      </table>
      <footer class="pat">PVX: XXX-XXX   Carnet:2018-40120    Nombre:Irving Alexander Córdova Alarcón </footer>
 </body>
