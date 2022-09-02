@@ -15,7 +15,7 @@ a { text-decoration: none;
 </style> 
 <td align="center" width="30%" bgcolor="orange" ><h2><a href="bienvenido.php">Inicio</a></h2></td>
 <td align="center" bgcolor="green"><h2><a href="Pys.php">Productos</a></h2></td>
-<td align="center" width="30%" bgcolor="orange"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
+<td align="center" width="30%" bgcolor="orange"><h3><a href="tiendas.php">Tiendas</a></h3></td>
 
 
 </table>

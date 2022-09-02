@@ -6,9 +6,7 @@
     .contenedor{
         width: 100%;
         display: flex;
-       
         align-items: center;
-       
     }
 .contenedor figure{
 position: relative;

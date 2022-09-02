@@ -50,6 +50,7 @@ if (isset($us) && isset($pass)) {
             <label>Contraseña</label><br>
             <input type="password" name="pas"><br>
             <center><div><input type="submit" value="Ingresar" name="ingresar"></div></center>
+            <center><div><input type="submit" value="Registrar" name="Registrarse"></div></center>
             </form>
         </td>
     </tr>

@@ -10,8 +10,7 @@
 </head>
 <body>
     <header class="head"><img class="ihead" src="imagenes/Logo.png"></header>
-    <header class="head2" align="right"><a href="index.php">Cerrar Sesión</a></header>
-
+    <header class="head2" align="right"><input type="submit" value="Ingresar" name="ingresar"></div></header>
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -68,7 +67,7 @@ a { text-decoration: none;
 </style> 
 <td align="center" width="30%" bgcolor="orange" ><h2><a href="bienvenido.php">Inicio</a></h2></td>
 <td align="center" bgcolor="green"><h2><a href="Pys.php">Productos</a></h2></td>
-<td align="center" width="30%" bgcolor="Beige"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
+<td align="center" width="30%" bgcolor="yellow"><h3><a href="Contactenos.php">Contactanos</a></h3></td>
 </table>
      <table align="center" width="100%">
     <tr>
